@@ -30,13 +30,13 @@
 	<key>PayloadDisplayName</key>
 	<string>Ad Blocker</string>
 	<key>PayloadIdentifier</key>
-	<string>michaels-imac.local.CECF75B7-75A4-4FC8-8B9B-1DFEDC31D3D9</string>
+	<string>private.local.62201f9d-5552-40b8-bb8b-5d8e2a7f6bf5</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>05310982-9E13-4A65-B5E9-9B523B2D2DE7</string>
+	<string>62201f9d-5552-40b8-bb8b-5d8e2a7f6bf5</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
